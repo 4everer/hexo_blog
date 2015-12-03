@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Science Science Science
+title: life | bio | data
 subtitle:
 description:
 author: Ksint
@@ -14,7 +14,7 @@ avatar: http://tp3.sinaimg.cn/1914416250/180/5638357416/1
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ksintdatabio.co.uk
+url: ksintdatabio.co.uk
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
