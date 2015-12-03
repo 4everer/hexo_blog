@@ -3,6 +3,7 @@ layout: post
 title:  "Django Blog Tutorial"
 tags: [python, django, web]
 categories: programming
+date: 2015-11-15
 ---
 
 Django Blog Tutorial - the Next Generation - Part 1

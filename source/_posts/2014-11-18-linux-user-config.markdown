@@ -3,6 +3,7 @@ layout: post
 title:  "Linux user config"
 tags: [linux]
 categories: programming
+date: 2014-11-18
 ---
 
 *on Ubuntu 12.04*

@@ -3,6 +3,7 @@ layout: post
 title:  "Django Basic"
 tags: [python, django, web]
 categories: programming
+date: 2015-11-18
 ---
 
 

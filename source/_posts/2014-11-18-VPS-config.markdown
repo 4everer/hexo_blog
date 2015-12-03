@@ -3,6 +3,7 @@ layout: post
 title:  "VPS Configuration"
 tags: [VPS, linux]
 categories: resource
+date: 2014-11-27
 ---
 
 # vps configuration

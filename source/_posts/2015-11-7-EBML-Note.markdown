@@ -3,6 +3,7 @@ layout: post
 title:  "EMBL Course Note"
 tags: [programming, git, python, linux]
 categories: programming
+date: 2015-11-07
 ---
 
 

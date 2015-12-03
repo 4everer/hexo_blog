@@ -3,6 +3,7 @@ layout: post
 title:  "HaCaT Cells Protocol"
 tags: [tissue culture, method]
 categories: research
+date: 2015-11-16
 ---
 
 HaCaT cells

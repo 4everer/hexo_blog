@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World"
 categories: others
 tags: [test]
+date: 2015-11-17
 ---
 
 Hello world
