@@ -11,7 +11,7 @@ language: en
 timezone:
 since: 2015
 avatar: http://tp3.sinaimg.cn/1914416250/180/5638357416/1
-
+favicon: /favicon.ico
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: ksintdatabio.co.uk
