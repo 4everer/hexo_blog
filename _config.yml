@@ -73,9 +73,6 @@ theme: next
 deploy:
   type:
 
-# disqus
-disqus_shortname: gaugn
-
 social:
   GitHub: https://github.com/4everer
   Twitter: https://twitter.com/Guang_bio
